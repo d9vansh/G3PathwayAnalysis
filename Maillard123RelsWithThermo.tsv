@@ -1,0 +1,462 @@
+Index	Reagents	Products	Rule	Energy Change
+12227_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C(C(C)=O)O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(C(C(C)N)O)=O)=O']	Strecker Degradation, CC	3.64
+12228_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C(CC=O)O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(C(CC=O)N)O)=O']	Strecker Degradation, CC	-27.65
+12229_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(C)=O)N)O)=O']	Strecker Degradation, CC	-40.48
+12230_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(C)N)=O)O)=O']	Strecker Degradation, CC	-97.43
+12231_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(CCC=O)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CCC(C(C=O)O)N)=O']	Strecker Degradation, CC	-40.48
+12232_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(CC(C=O)O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(CC(C=O)O)N)=O']	Strecker Degradation, CC	-32.3
+12233_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(COC(C(CO)O)C1O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(C(C(CO)O)O1)O)N']	Strecker Degradation, CC	-18.22
+12234_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OC(C(CO)O)C1)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C1CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12235_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(CO)O)OC(C1)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C1C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12236_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C)(C1C(C(C(O1)O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'CC(C1C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-40.48
+12237_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(COC(CO)C(C1O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(C(C(CO)O1)O)O)N']	Strecker Degradation, CC	-18.22
+12238_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OC(CO)C(C1)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C1C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12239_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(CO)OC(C1)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C1C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12240_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(O)OC(CO)C1)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C1CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-18.22
+12241_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(CO)OC(C(C1)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C1C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-18.22
+12242_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(COCC(C(C1O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(C(C(CO1)N)O)O)O']	Strecker Degradation, CC	-18.22
+12243_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OCC(C(C1)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12244_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(COC(C1)O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-18.22
+12245_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(O)OCC(C1)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-18.22
+12246_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(COC(C(C1)O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-18.22
+12247_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(C(C(O)OCC1)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1CC(C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-18.22
+12248_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(COC(C(C(C1)O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(CC(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-18.22
+12249_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(CO)O)O)(CCN)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(CCN)N)O)O)O']	Strecker Degradation, CC	-40.48
+12250_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(CN)O)(CC(CO)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CN)O)N)O)O']	Strecker Degradation, CC	-40.48
+12251_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(CO)O)(CC(CN)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CN)O)N)O)O']	Strecker Degradation, CC	-40.48
+12252_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(CN)O)O)(CCO)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(C(C(CN)O)O)N)O']	Strecker Degradation, CC	-40.48
+12253_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CO)(CC(C(CN)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CN)O)O)N)O']	Strecker Degradation, CC	-40.48
+12254_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C)(C(C(C(CN)O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'CC(C(C(C(CN)O)O)O)N']	Strecker Degradation, CC	-40.48
+12255_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C(O)=O)O)(CCO)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(CCO)N)O)(O)=O']	Strecker Degradation, CC	-40.48
+12256_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(CCC(CO)=O)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CCC(CO)N)O)(O)=O']	Strecker Degradation, CC	-40.48
+12257_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(CC(C(C)=O)O)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(C)N)O)O)(O)=O']	Strecker Degradation, CC	-40.48
+12258_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(CO)O)(CC(C=O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CO)O)N)=O)=O']	Strecker Degradation, CC	-32.3
+12259_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CCO)(C(C(C=O)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(CCO)N)O)=O)=O']	Strecker Degradation, CC	16.47
+12260_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CO)(CC(C(C=O)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CO)N)O)=O)=O']	Strecker Degradation, CC	-40.48
+12261_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C)(C(C(C(C=O)=O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(C(C)N)O)O)=O)=O']	Strecker Degradation, CC	-40.48
+12262_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(C=CCO)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C=CCO)N)O)=O']	Strecker Degradation, CC	0.1
+12263_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CO)O)N)=CC=O']	Strecker Degradation, CC	-40.48
+12264_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(C(C=C)=O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(C=C)N)O)O)=O']	Strecker Degradation, CC	-40.48
+12265_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C=CC(CO)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C=CC(CO)N)O)=O']	Strecker Degradation, CC	-40.48
+12266_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CO)(C(C(C(CO)O)NC)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'CNC(C(C(CO)N)O)C(CO)O']	Strecker Degradation, CC	-40.48
+12267_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C(C(CO)NC)O)=O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(C(C(CO)NC)O)N)=O']	Strecker Degradation, CC	-0.08
+12268_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(CC(CO)NC)=O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CO)NC)N)O)=O']	Strecker Degradation, CC	16.47
+12269_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C=O)NC)(C(CO)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CO)O)N)NC)=O']	Strecker Degradation, CC	-9.84
+12270_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(CC(C=O)O)(C(CNC)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CNC)O)N)O)=O']	Strecker Degradation, CC	-40.48
+12271_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(C(CCO)=O)O)NC)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(CCO)N)O)NC)=O']	Strecker Degradation, CC	-9.84
+12272_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(C=O)O)O)(CCNC)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(CCNC)N)O)O)=O']	Strecker Degradation, CC	-40.48
+12273_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(CC(CO)=O)NC)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CO)N)NC)O)=O']	Strecker Degradation, CC	-40.48
+12274_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C(C(C(C(C(C)=O)O)NC)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(C(C)N)O)NC)O)=O']	Strecker Degradation, CC	-40.48
+12275_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OC(C(CO)O)C1O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C1C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-18.22
+12276_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OC(CO)C(C1O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C1C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-18.22
+12277_0	['C(C(C(C(O)=O)N)O)(O)=O', 'C1(C(O)OCC(C(C1O)O)O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C1C(C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-18.22
+12278_0	['C(C(CO)N)(O)=O', 'C(CO)(C(C(C(CO)O)O)NC)=O']	['C(CO)=O', 'C(=O)=O', 'CNC(C(C(CO)O)O)C(CO)N']	Strecker Degradation, CC	-21.93
+12279_0	['C(C(CO)N)(O)=O', 'C(CC(C(C(CO)O)NC)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(CO)O)NC)N)=O']	Strecker Degradation, CC	-13.75
+12280_0	['C(C(CO)N)(O)=O', 'C(C(C(CC(CO)O)=O)NC)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)O)N)NC)=O']	Strecker Degradation, CC	-49.51
+12281_0	['C(C(CO)N)(O)=O', 'C(CC(C=O)O)(C(CO)NC)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CO)NC)N)O)=O']	Strecker Degradation, CC	-21.93
+12282_0	['C(C(CO)N)(O)=O', 'C(C(C(C=O)O)NC)(CCO)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCO)N)NC)O)=O']	Strecker Degradation, CC	-21.93
+12283_0	['C(C(CO)N)(O)=O', 'C(C(C(C(C(C)=O)NC)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(C)N)NC)O)O)=O']	Strecker Degradation, CC	-21.93
+12284_0	['C(C(CO)N)(O)=O', 'C(CN)(CC(C(CO)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CN)N)O)O)O']	Strecker Degradation, CC	-21.93
+12285_0	['C(C(CO)N)(O)=O', 'C(CN)(C(C(C(CO)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(CN)N)O)O)O)O']	Strecker Degradation, CC	-21.93
+12286_0	['C(C(CO)N)(O)=O', 'C(CCO)(CC(C=O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(CCO)N)=O)=O']	Strecker Degradation, CC	-41.32
+12287_0	['C(C(CO)N)(O)=O', 'C(CO)(CCC(C=O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CCC(CO)N)=O)=O']	Strecker Degradation, CC	-49.51
+12288_0	['C(C(CO)N)(O)=O', 'C(C)(C(CC(C=O)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(C)N)O)=O)=O']	Strecker Degradation, CC	-49.51
+12289_0	['C(C(CO)N)(O)=O', 'C(CC(CC(CO)=O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(CC(CO)=O)N)=O']	Strecker Degradation, CC	-41.32
+12290_0	['C(C(CO)N)(O)=O', 'C(CC(CC(CO)=O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(CC(CO)N)=O)=O']	Strecker Degradation, CC	-49.51
+12291_0	['C(C(CO)N)(O)=O', 'C(CC(C(C(C)=O)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(C)=O)O)N)=O']	Strecker Degradation, CC	7.45
+12292_0	['C(C(CO)N)(O)=O', 'C(CC(C(C(C)=O)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(C)N)O)=O)=O']	Strecker Degradation, CC	-5.38
+12293_0	['C(C(CO)N)(O)=O', 'C(CC(C(CC=O)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(CC=O)N)O)=O']	Strecker Degradation, CC	-36.68
+12294_0	['C(C(CO)N)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(C)=O)N)O)=O']	Strecker Degradation, CC	-49.51
+12295_0	['C(C(CO)N)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(C)N)=O)O)=O']	Strecker Degradation, CC	-106.46
+12296_0	['C(C(CO)N)(O)=O', 'C(C(C(CCC=O)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CCC(C(C=O)O)N)=O']	Strecker Degradation, CC	-49.51
+12297_0	['C(C(CO)N)(O)=O', 'C(CC(CC(C=O)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(CC(C=O)O)N)=O']	Strecker Degradation, CC	-41.32
+12298_0	['C(C(CO)N)(O)=O', 'C1(COC(C(CO)O)C1O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(C(C(CO)O)O1)O)N']	Strecker Degradation, CC	-27.25
+12299_0	['C(C(CO)N)(O)=O', 'C1(C(O)OC(C(CO)O)C1)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C1CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12300_0	['C(C(CO)N)(O)=O', 'C1(C(C(CO)O)OC(C1)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C1C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12301_0	['C(C(CO)N)(O)=O', 'C(C)(C1C(C(C(O1)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'CC(C1C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-49.51
+12302_0	['C(C(CO)N)(O)=O', 'C1(COC(CO)C(C1O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(C(C(CO)O1)O)O)N']	Strecker Degradation, CC	-27.25
+12303_0	['C(C(CO)N)(O)=O', 'C1(C(O)OC(CO)C(C1)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C1C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12304_0	['C(C(CO)N)(O)=O', 'C1(C(C(CO)OC(C1)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C1C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12305_0	['C(C(CO)N)(O)=O', 'C1(C(C(O)OC(CO)C1)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C1CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-27.25
+12306_0	['C(C(CO)N)(O)=O', 'C1(C(CO)OC(C(C1)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C1C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-27.25
+12307_0	['C(C(CO)N)(O)=O', 'C1(COCC(C(C1O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(C(C(CO1)N)O)O)O']	Strecker Degradation, CC	-27.25
+12308_0	['C(C(CO)N)(O)=O', 'C1(C(O)OCC(C(C1)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12309_0	['C(C(CO)N)(O)=O', 'C1(C(C(COC(C1)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-27.25
+12310_0	['C(C(CO)N)(O)=O', 'C1(C(C(O)OCC(C1)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-27.25
+12311_0	['C(C(CO)N)(O)=O', 'C1(C(COC(C(C1)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-27.25
+12312_0	['C(C(CO)N)(O)=O', 'C1(C(C(C(O)OCC1)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1CC(C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-27.25
+12313_0	['C(C(CO)N)(O)=O', 'C1(COC(C(C(C1)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(CC(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-27.25
+12314_0	['C(C(CO)N)(O)=O', 'C(C(C(CO)O)O)(CCN)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCN)N)O)O)O']	Strecker Degradation, CC	-49.51
+12315_0	['C(C(CO)N)(O)=O', 'C(C(CN)O)(CC(CO)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CN)O)N)O)O']	Strecker Degradation, CC	-49.51
+12316_0	['C(C(CO)N)(O)=O', 'C(C(CO)O)(CC(CN)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CN)O)N)O)O']	Strecker Degradation, CC	-49.51
+12317_0	['C(C(CO)N)(O)=O', 'C(C(C(CN)O)O)(CCO)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(CN)O)O)N)O']	Strecker Degradation, CC	-49.51
+12318_0	['C(C(CO)N)(O)=O', 'C(CO)(CC(C(CN)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CN)O)O)N)O']	Strecker Degradation, CC	-49.51
+12319_0	['C(C(CO)N)(O)=O', 'C(C)(C(C(C(CN)O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'CC(C(C(C(CN)O)O)O)N']	Strecker Degradation, CC	-49.51
+12320_0	['C(C(CO)N)(O)=O', 'C(CC(C(O)=O)O)(CCO)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(CCO)N)O)(O)=O']	Strecker Degradation, CC	-49.51
+12321_0	['C(C(CO)N)(O)=O', 'C(C(CCC(CO)=O)O)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CCC(CO)N)O)(O)=O']	Strecker Degradation, CC	-49.51
+12322_0	['C(C(CO)N)(O)=O', 'C(C(CC(C(C)=O)O)O)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(C)N)O)O)(O)=O']	Strecker Degradation, CC	-49.51
+12323_0	['C(C(CO)N)(O)=O', 'C(C(CO)O)(CC(C=O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CO)O)N)=O)=O']	Strecker Degradation, CC	-41.32
+12324_0	['C(C(CO)N)(O)=O', 'C(CCO)(C(C(C=O)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCO)N)O)=O)=O']	Strecker Degradation, CC	7.45
+12325_0	['C(C(CO)N)(O)=O', 'C(CO)(CC(C(C=O)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)N)O)=O)=O']	Strecker Degradation, CC	-49.51
+12326_0	['C(C(CO)N)(O)=O', 'C(C)(C(C(C(C=O)=O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(C)N)O)O)=O)=O']	Strecker Degradation, CC	-49.51
+12327_0	['C(C(CO)N)(O)=O', 'C(C(C(C=CCO)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C=CCO)N)O)=O']	Strecker Degradation, CC	-8.92
+12328_0	['C(C(CO)N)(O)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CO)O)N)=CC=O']	Strecker Degradation, CC	-49.51
+12329_0	['C(C(CO)N)(O)=O', 'C(C(C(C(C=C)=O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C=C)N)O)O)=O']	Strecker Degradation, CC	-49.51
+12330_0	['C(C(CO)N)(O)=O', 'C(C(C=CC(CO)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C=CC(CO)N)O)=O']	Strecker Degradation, CC	-49.51
+12331_0	['C(C(CO)N)(O)=O', 'C(CO)(C(C(C(CO)O)NC)O)=O']	['C(CO)=O', 'C(=O)=O', 'CNC(C(C(CO)N)O)C(CO)O']	Strecker Degradation, CC	-49.51
+12332_0	['C(C(CO)N)(O)=O', 'C(CC(C(C(CO)NC)O)=O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(CO)NC)O)N)=O']	Strecker Degradation, CC	-9.11
+12333_0	['C(C(CO)N)(O)=O', 'C(C(C(CC(CO)NC)=O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)NC)N)O)=O']	Strecker Degradation, CC	7.45
+12334_0	['C(C(CO)N)(O)=O', 'C(CC(C=O)NC)(C(CO)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CO)O)N)NC)=O']	Strecker Degradation, CC	-18.86
+12335_0	['C(C(CO)N)(O)=O', 'C(CC(C=O)O)(C(CNC)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CNC)O)N)O)=O']	Strecker Degradation, CC	-49.51
+12336_0	['C(C(CO)N)(O)=O', 'C(C(C(C(CCO)=O)O)NC)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCO)N)O)NC)=O']	Strecker Degradation, CC	-18.86
+12337_0	['C(C(CO)N)(O)=O', 'C(C(C(C=O)O)O)(CCNC)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCNC)N)O)O)=O']	Strecker Degradation, CC	-49.51
+12338_0	['C(C(CO)N)(O)=O', 'C(C(C(CC(CO)=O)NC)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)N)NC)O)=O']	Strecker Degradation, CC	-49.51
+12339_0	['C(C(CO)N)(O)=O', 'C(C(C(C(C(C)=O)O)NC)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(C)N)O)NC)O)=O']	Strecker Degradation, CC	-49.51
+12340_0	['C(C(CO)N)(O)=O', 'C1(C(O)OC(C(CO)O)C1O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C1C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-27.25
+12341_0	['C(C(CO)N)(O)=O', 'C1(C(O)OC(CO)C(C1O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C1C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-27.25
+12342_0	['C(C(CO)N)(O)=O', 'C1(C(O)OCC(C(C1O)O)O)=O']	['C(CO)=O', 'C(=O)=O', 'C1C(C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-27.25
+12343_0	['C(CN)(O)=O', 'C1(C(C(C(C1CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C1C(C(C(C1N)O)O)O)O']	Strecker Degradation, CC	-0.43
+12344_0	['C(CN)(O)=O', 'C1(C(C(C(C(C1)O)O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(C(C1N)O)O)O)O']	Strecker Degradation, CC	-0.43
+12345_0	['C(CN)(O)=O', 'C(C(C(C(C(CO)O)O)=O)CO)=O']	['C(=O)=O', 'C=O', 'C(C(CO)C(C(C(CO)O)O)N)=O']	Strecker Degradation, CC	-22.69
+12346_0	['C(CN)(O)=O', 'C(C(C(C(CO)C(CO)O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CO)C(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12347_0	['C(CN)(O)=O', 'C(C(CO)C(C=O)O)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CO)C(C(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12348_0	['C(CN)(O)=O', 'C(C(C(C=O)O)O)(C(CO)CO)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CO)CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12349_0	['C(CN)(O)=O', 'C(C(C(C(C(CO)=O)CO)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CO)C(CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12350_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(C(C=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(C(CO)O)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12351_0	['C(CN)(O)=O', 'C(C(C(C(C=O)O)O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CCO)N)O)O)O)=O']	Strecker Degradation, CC	-22.69
+12352_0	['C(CN)(O)=O', 'C(CO)(CO)=O']	['C(=O)=O', 'C=O', 'C(C(CO)N)O']	Strecker Degradation, CC	-22.51
+12353_0	['C(CN)(O)=O', 'C(CC(CO)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(CO)N)=O']	Strecker Degradation, CC	-14.5
+12354_0	['C(CN)(O)=O', 'C(C(C(C)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C)N)O)=O']	Strecker Degradation, CC	34.26
+12355_0	['C(CN)(O)=O', 'C(C)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'CC(C(CO)O)N']	Strecker Degradation, CC	-22.69
+12356_0	['C(CN)(O)=O', 'C(C(CC(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(CO)N)O)=O']	Strecker Degradation, CC	-22.69
+12357_0	['C(CN)(O)=O', 'C(CO)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(CCO)N)O']	Strecker Degradation, CC	-22.69
+12358_0	['C(CN)(O)=O', 'C(C(C(C(C)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12359_0	['C(CN)(O)=O', 'C(C)(CO)=O']	['C(=O)=O', 'C=O', 'CC(CO)N']	Strecker Degradation, CC	-22.69
+12360_0	['C(CN)(O)=O', 'C(CO)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CO)O)N)O']	Strecker Degradation, CC	-22.69
+12361_0	['C(CN)(O)=O', 'C(C(C(CO)O)O)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CO)O)N)O)O)O']	Strecker Degradation, CC	-22.69
+12362_0	['C(CN)(O)=O', 'C(CC(C(C(CO)O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12363_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CO)=O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)O)(CC(CO)N)=O']	Strecker Degradation, CC	-22.69
+12364_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CO)=O)=O']	['C(=O)=O', 'C=O', 'C(CO)(CC(C(CO)O)N)=O']	Strecker Degradation, CC	-22.69
+12365_0	['C(CN)(O)=O', 'C(C(CC(C(CO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12366_0	['C(CN)(O)=O', 'C(CCO)(C(C(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CO)N)O)(CCO)=O']	Strecker Degradation, CC	-22.69
+12367_0	['C(CN)(O)=O', 'C(CCO)(C(C(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CO)(C(C(CCO)N)O)=O']	Strecker Degradation, CC	-22.69
+12368_0	['C(CN)(O)=O', 'C(C(C(C(CCO)O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12369_0	['C(CN)(O)=O', 'C(CO)(C(CC(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CO)(CC(C(CO)N)O)=O']	Strecker Degradation, CC	-22.69
+12370_0	['C(CN)(O)=O', 'C(CO)(C(CC(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CO)(C(CC(CO)N)O)=O']	Strecker Degradation, CC	-22.69
+12371_0	['C(CN)(O)=O', 'C(C)(C(C(C(CO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C)(C(C(C(CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12372_0	['C(CN)(O)=O', 'C(C)(C(C(C(CO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(CO)(C(C(C(C)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12373_0	['C(CN)(O)=O', 'C(C(C(C=O)O)O)(C(C)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)O)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12374_0	['C(CN)(O)=O', 'C(CC(C(C(CO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12375_0	['C(CN)(O)=O', 'C(C(C(C(C(CO)O)O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CO)O)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12376_0	['C(CN)(O)=O', 'C(CNC)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'CNCC(C(CO)O)N']	Strecker Degradation, CC	4.89
+12377_0	['C(CN)(O)=O', 'C(C(C(CO)O)O)(C(CO)NC)=O']	['C(=O)=O', 'C=O', 'CNC(CO)C(C(C(CO)O)O)N']	Strecker Degradation, CC	4.89
+12378_0	['C(CN)(O)=O', 'C(CC(C(C(CO)O)=O)NC)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)O)N)NC)=O']	Strecker Degradation, CC	4.89
+12379_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CNC)=O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)O)(CC(CNC)N)=O']	Strecker Degradation, CC	4.89
+12380_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CNC)=O)=O']	['C(=O)=O', 'C=O', 'C(CNC)(CC(C(CO)O)N)=O']	Strecker Degradation, CC	-22.69
+12381_0	['C(CN)(O)=O', 'C(C(CC(C(CO)=O)NC)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)N)NC)O)=O']	Strecker Degradation, CC	4.89
+12382_0	['C(CN)(O)=O', 'C(CCO)(C(C(CNC)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CNC)N)O)(CCO)=O']	Strecker Degradation, CC	4.89
+12383_0	['C(CN)(O)=O', 'C(CCO)(C(C(CNC)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CNC)(C(C(CCO)N)O)=O']	Strecker Degradation, CC	-22.69
+12384_0	['C(CN)(O)=O', 'C(C(C(C(CCO)NC)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)NC)N)O)=O']	Strecker Degradation, CC	4.89
+12385_0	['C(CN)(O)=O', 'C(CC(C(CNC)=O)O)(CO)=O']	['C(=O)=O', 'C=O', 'C(CO)(CC(C(CNC)N)O)=O']	Strecker Degradation, CC	4.89
+12386_0	['C(CN)(O)=O', 'C(CC(C(CNC)=O)O)(CO)=O']	['C(=O)=O', 'C=O', 'C(CNC)(C(CC(CO)N)O)=O']	Strecker Degradation, CC	-22.69
+12387_0	['C(CN)(O)=O', 'C(C(C(C(CNC)=O)O)O)(C)=O']	['C(=O)=O', 'C=O', 'C(C)(C(C(C(CNC)N)O)O)=O']	Strecker Degradation, CC	4.89
+12388_0	['C(CN)(O)=O', 'C(C(C(C(CNC)=O)O)O)(C)=O']	['C(=O)=O', 'C=O', 'C(CNC)(C(C(C(C)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12389_0	['C(CN)(O)=O', 'C(C(C(C=O)O)O)(C(C)NC)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)NC)N)O)O)=O']	Strecker Degradation, CC	4.89
+12390_0	['C(CN)(O)=O', 'C(CC(C(C(CNC)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CNC)N)O)O)=O']	Strecker Degradation, CC	4.89
+12391_0	['C(CN)(O)=O', 'C(C(C(C(C(CO)O)O)=O)NC)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CO)O)O)N)NC)=O']	Strecker Degradation, CC	-22.69
+12392_0	['C(CN)(O)=O', 'C(CNCC(O)=O)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(CNCC(C(CO)O)N)(O)=O']	Strecker Degradation, CC	4.89
+12393_0	['C(CN)(O)=O', 'C(CNC)(C(C(C(CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'CNCC(C(C(C(CO)O)O)O)N']	Strecker Degradation, CC	4.89
+12394_0	['C(CN)(O)=O', 'C(CO)(CC(C(CO)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)N)O)O)O']	Strecker Degradation, CC	-22.69
+12395_0	['C(CN)(O)=O', 'C(C(C(CO)O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)N)O)O)O']	Strecker Degradation, CC	-22.69
+12396_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)O)N)O)O']	Strecker Degradation, CC	-22.69
+12397_0	['C(CN)(O)=O', 'C(C)(C(C(C(CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'CC(C(C(C(CO)O)O)O)N']	Strecker Degradation, CC	-22.69
+12398_0	['C(CN)(O)=O', 'C(CC(C(C(CO)O)O)=O)(O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)O)O)N)(O)=O']	Strecker Degradation, CC	-22.69
+12399_0	['C(CN)(O)=O', 'C(C(C(CC(CO)O)=O)O)(O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)O)N)O)(O)=O']	Strecker Degradation, CC	-22.69
+12400_0	['C(CN)(O)=O', 'C(CC(C(O)=O)O)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)O)N)O)(O)=O']	Strecker Degradation, CC	-22.69
+12401_0	['C(CN)(O)=O', 'C(C(C(C(O)=O)O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)N)O)O)(O)=O']	Strecker Degradation, CC	-22.69
+12402_0	['C(CN)(O)=O', 'C(C(C(CC(CO)=O)O)O)(O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)N)O)O)(O)=O']	Strecker Degradation, CC	-22.69
+12403_0	['C(CN)(O)=O', 'C(C(C(C(C(C)=O)O)O)O)(O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)N)O)O)O)(O)=O']	Strecker Degradation, CC	-22.69
+12404_0	['C(CN)(O)=O', 'C1(CC(C(C1(CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C1(C(C(CC1N)O)O)O)O']	Strecker Degradation, CC	-0.43
+12405_0	['C(CN)(O)=O', 'C(CC(C(CO)(C(CO)O)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(CO)(C(CO)O)O)N)=O']	Strecker Degradation, CC	-22.69
+12406_0	['C(CN)(O)=O', 'C(C(C(CC(CO)O)=O)(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)(C(CC(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12407_0	['C(CN)(O)=O', 'C(CC(C=O)O)(C(CO)(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12408_0	['C(CN)(O)=O', 'C(C(CO)(C(C(CCO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)(C(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12409_0	['C(CN)(O)=O', 'C(C(CO)(C(C=O)O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(C(CO)(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12410_0	['C(CN)(O)=O', 'C(C(CO)(C(CC(CO)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)(C(CC(CO)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12411_0	['C(CN)(O)=O', 'C(C(CO)(C(C(C(C)=O)O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)(C(C(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-22.69
+12412_0	['C(CN)(O)=O', 'C(C(C(C(C(C)=O)(CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CO)(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-22.69
+12413_0	['C(CN)(O)=O', 'C(C(CO)(CC(C(CO)O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CO)(CC(C(CO)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12414_0	['C(CN)(O)=O', 'C(CO)(C(C(C(CO)O)O)NC)=O']	['C(=O)=O', 'C=O', 'CNC(C(C(CO)O)O)C(CO)N']	Strecker Degradation, CC	4.89
+12415_0	['C(CN)(O)=O', 'C(CC(C(C(CO)O)NC)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)O)NC)N)=O']	Strecker Degradation, CC	13.07
+12416_0	['C(CN)(O)=O', 'C(C(C(CC(CO)O)=O)NC)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)O)N)NC)=O']	Strecker Degradation, CC	-22.69
+12417_0	['C(CN)(O)=O', 'C(CC(C=O)O)(C(CO)NC)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)NC)N)O)=O']	Strecker Degradation, CC	4.89
+12418_0	['C(CN)(O)=O', 'C(C(C(C=O)O)NC)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)N)NC)O)=O']	Strecker Degradation, CC	4.89
+12419_0	['C(CN)(O)=O', 'C(C(C(C(C(C)=O)NC)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)N)NC)O)O)=O']	Strecker Degradation, CC	4.89
+12420_0	['C(CN)(O)=O', 'C(CN)(CC(C(CO)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CN)N)O)O)O']	Strecker Degradation, CC	4.89
+12421_0	['C(CN)(O)=O', 'C(CN)(C(C(C(CO)O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(CN)N)O)O)O)O']	Strecker Degradation, CC	4.89
+12422_0	['C(CN)(O)=O', 'C(CCO)(CC(C=O)=O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(CCO)N)=O)=O']	Strecker Degradation, CC	-14.5
+12423_0	['C(CN)(O)=O', 'C(CO)(CCC(C=O)=O)=O']	['C(=O)=O', 'C=O', 'C(C(CCC(CO)N)=O)=O']	Strecker Degradation, CC	-22.69
+12424_0	['C(CN)(O)=O', 'C(C)(C(CC(C=O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(C)N)O)=O)=O']	Strecker Degradation, CC	-22.69
+12425_0	['C(CN)(O)=O', 'C(CC(CC(CO)=O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(CC(CO)=O)N)=O']	Strecker Degradation, CC	-14.5
+12426_0	['C(CN)(O)=O', 'C(CC(CC(CO)=O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(CC(CO)N)=O)=O']	Strecker Degradation, CC	-22.69
+12427_0	['C(CN)(O)=O', 'C(CC(C(C(C)=O)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(C)=O)O)N)=O']	Strecker Degradation, CC	34.26
+12428_0	['C(CN)(O)=O', 'C(CC(C(C(C)=O)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(C)N)O)=O)=O']	Strecker Degradation, CC	21.44
+12429_0	['C(CN)(O)=O', 'C(CC(C(CC=O)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(CC=O)N)O)=O']	Strecker Degradation, CC	-9.86
+12430_0	['C(CN)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(C)=O)N)O)=O']	Strecker Degradation, CC	-22.69
+12431_0	['C(CN)(O)=O', 'C(C(C=O)O)(CC(C)=O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(C)N)=O)O)=O']	Strecker Degradation, CC	-79.64
+12432_0	['C(CN)(O)=O', 'C(C(C(CCC=O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(CCC(C(C=O)O)N)=O']	Strecker Degradation, CC	-22.69
+12433_0	['C(CN)(O)=O', 'C(CC(CC(C=O)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(CC(C=O)O)N)=O']	Strecker Degradation, CC	-14.5
+12434_0	['C(CN)(O)=O', 'C1(COC(C(CO)O)C1O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(C(CO)O)O1)O)N']	Strecker Degradation, CC	-0.43
+12435_0	['C(CN)(O)=O', 'C1(C(O)OC(C(CO)O)C1)=O']	['C(=O)=O', 'C=O', 'C(C(C1CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12436_0	['C(CN)(O)=O', 'C1(C(C(CO)O)OC(C1)O)=O']	['C(=O)=O', 'C=O', 'C(C(C1C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12437_0	['C(CN)(O)=O', 'C(C)(C1C(C(C(O1)O)O)O)=O']	['C(=O)=O', 'C=O', 'CC(C1C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-22.69
+12438_0	['C(CN)(O)=O', 'C1(COC(CO)C(C1O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(C(CO)O1)O)O)N']	Strecker Degradation, CC	-0.43
+12439_0	['C(CN)(O)=O', 'C1(C(O)OC(CO)C(C1)O)=O']	['C(=O)=O', 'C=O', 'C(C1C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12440_0	['C(CN)(O)=O', 'C1(C(C(CO)OC(C1)O)O)=O']	['C(=O)=O', 'C=O', 'C(C1C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12441_0	['C(CN)(O)=O', 'C1(C(C(O)OC(CO)C1)O)=O']	['C(=O)=O', 'C=O', 'C(C1CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-0.43
+12442_0	['C(CN)(O)=O', 'C1(C(CO)OC(C(C1)O)O)=O']	['C(=O)=O', 'C=O', 'C(C1C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-0.43
+12443_0	['C(CN)(O)=O', 'C1(COCC(C(C1O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(C(CO1)N)O)O)O']	Strecker Degradation, CC	-0.43
+12444_0	['C(CN)(O)=O', 'C1(C(O)OCC(C(C1)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(CC(C(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12445_0	['C(CN)(O)=O', 'C1(C(C(COC(C1)O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(CC(O)O1)N)O)O']	Strecker Degradation, CC	-0.43
+12446_0	['C(CN)(O)=O', 'C1(C(C(O)OCC(C1)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(CC(C(C(O)O1)O)N)O']	Strecker Degradation, CC	-0.43
+12447_0	['C(CN)(O)=O', 'C1(C(COC(C(C1)O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(CC(C(O)O1)O)N)O']	Strecker Degradation, CC	-0.43
+12448_0	['C(CN)(O)=O', 'C1(C(C(C(O)OCC1)O)O)=O']	['C(=O)=O', 'C=O', 'C1CC(C(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-0.43
+12449_0	['C(CN)(O)=O', 'C1(COC(C(C(C1)O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(CC(C(C(O)O1)O)O)N']	Strecker Degradation, CC	-0.43
+12450_0	['C(CN)(O)=O', 'C(C(C(CO)O)O)(CCN)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCN)N)O)O)O']	Strecker Degradation, CC	-22.69
+12451_0	['C(CN)(O)=O', 'C(C(CN)O)(CC(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CN)O)N)O)O']	Strecker Degradation, CC	-22.69
+12452_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(CN)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CN)O)N)O)O']	Strecker Degradation, CC	-22.69
+12453_0	['C(CN)(O)=O', 'C(C(C(CN)O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CN)O)O)N)O']	Strecker Degradation, CC	-22.69
+12454_0	['C(CN)(O)=O', 'C(CO)(CC(C(CN)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CN)O)O)N)O']	Strecker Degradation, CC	-22.69
+12455_0	['C(CN)(O)=O', 'C(C)(C(C(C(CN)O)O)O)=O']	['C(=O)=O', 'C=O', 'CC(C(C(C(CN)O)O)O)N']	Strecker Degradation, CC	-22.69
+12456_0	['C(CN)(O)=O', 'C(CC(C(O)=O)O)(CCO)=O']	['C(=O)=O', 'C=O', 'C(C(CC(CCO)N)O)(O)=O']	Strecker Degradation, CC	-22.69
+12457_0	['C(CN)(O)=O', 'C(C(CCC(CO)=O)O)(O)=O']	['C(=O)=O', 'C=O', 'C(C(CCC(CO)N)O)(O)=O']	Strecker Degradation, CC	-22.69
+12458_0	['C(CN)(O)=O', 'C(C(CC(C(C)=O)O)O)(O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(C)N)O)O)(O)=O']	Strecker Degradation, CC	-22.69
+12459_0	['C(CN)(O)=O', 'C(C(CO)O)(CC(C=O)=O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)O)N)=O)=O']	Strecker Degradation, CC	-14.5
+12460_0	['C(CN)(O)=O', 'C(CCO)(C(C(C=O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)N)O)=O)=O']	Strecker Degradation, CC	34.26
+12461_0	['C(CN)(O)=O', 'C(CO)(CC(C(C=O)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)N)O)=O)=O']	Strecker Degradation, CC	-22.69
+12462_0	['C(CN)(O)=O', 'C(C)(C(C(C(C=O)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)N)O)O)=O)=O']	Strecker Degradation, CC	-22.69
+12463_0	['C(CN)(O)=O', 'C(C(C(C=CCO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C=CCO)N)O)=O']	Strecker Degradation, CC	17.9
+12464_0	['C(CN)(O)=O', 'C(C=CC(C(CO)O)=O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CO)O)N)=CC=O']	Strecker Degradation, CC	-22.69
+12465_0	['C(CN)(O)=O', 'C(C(C(C(C=C)=O)O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C=C)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12466_0	['C(CN)(O)=O', 'C(C(C=CC(CO)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C=CC(CO)N)O)=O']	Strecker Degradation, CC	-22.69
+12467_0	['C(CN)(O)=O', 'C(CO)(C(C(C(CO)O)NC)O)=O']	['C(=O)=O', 'C=O', 'CNC(C(C(CO)N)O)C(CO)O']	Strecker Degradation, CC	-22.69
+12468_0	['C(CN)(O)=O', 'C(CC(C(C(CO)NC)O)=O)=O']	['C(=O)=O', 'C=O', 'C(CC(C(C(CO)NC)O)N)=O']	Strecker Degradation, CC	17.71
+12469_0	['C(CN)(O)=O', 'C(C(C(CC(CO)NC)=O)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)NC)N)O)=O']	Strecker Degradation, CC	34.26
+12470_0	['C(CN)(O)=O', 'C(CC(C=O)NC)(C(CO)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CO)O)N)NC)=O']	Strecker Degradation, CC	7.95
+12471_0	['C(CN)(O)=O', 'C(CC(C=O)O)(C(CNC)O)=O']	['C(=O)=O', 'C=O', 'C(C(CC(C(CNC)O)N)O)=O']	Strecker Degradation, CC	-22.69
+12472_0	['C(CN)(O)=O', 'C(C(C(C(CCO)=O)O)NC)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCO)N)O)NC)=O']	Strecker Degradation, CC	7.95
+12473_0	['C(CN)(O)=O', 'C(C(C(C=O)O)O)(CCNC)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(CCNC)N)O)O)=O']	Strecker Degradation, CC	-22.69
+12474_0	['C(CN)(O)=O', 'C(C(C(CC(CO)=O)NC)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(CC(CO)N)NC)O)=O']	Strecker Degradation, CC	-22.69
+12475_0	['C(CN)(O)=O', 'C(C(C(C(C(C)=O)O)NC)O)=O']	['C(=O)=O', 'C=O', 'C(C(C(C(C(C)N)O)NC)O)=O']	Strecker Degradation, CC	-22.69
+12476_0	['C(CN)(O)=O', 'C1(C(O)OC(C(CO)O)C1O)=O']	['C(=O)=O', 'C=O', 'C(C(C1C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-0.43
+12477_0	['C(CN)(O)=O', 'C1(C(O)OC(CO)C(C1O)O)=O']	['C(=O)=O', 'C=O', 'C(C1C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-0.43
+12478_0	['C(CN)(O)=O', 'C1(C(O)OCC(C(C1O)O)O)=O']	['C(=O)=O', 'C=O', 'C1C(C(C(C(C(O)O1)N)O)O)O']	Strecker Degradation, CC	-0.43
+12479_0	['C(CO)(C(C(C(CO)O)O)O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(C(C(C(CO)N)O)O)O)O']	Strecker Degradation, CC	-52.53
+12480_0	['C(CO)(C(C(C(CO)O)O)O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(C(C(C(CO)N)O)O)O)O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12481_0	['C(CO)(C(C(C(CO)O)O)O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(C(C(C(CO)N)O)O)O)O']	Strecker Degradation, CC	-48.78
+12482_0	['C(CO)(C(C(C(CO)O)O)O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(C(CO)N)O)O)O)O']	Strecker Degradation, CC	-40.48
+12483_0	['C(CO)(C(C(C(CO)O)O)O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(CO)N)O)O)O)O']	Strecker Degradation, CC	-49.51
+12484_0	['C(CC(C(C(CO)O)O)=O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(CC(C(C(CO)O)O)N)=O']	Strecker Degradation, CC	-39.7
+12485_0	['C(CC(C(C(CO)O)O)=O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(CC(C(C(CO)O)O)N)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-39.7
+12486_0	['C(CC(C(C(CO)O)O)=O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(CC(C(C(CO)O)O)N)=O']	Strecker Degradation, CC	-35.95
+12487_0	['C(CC(C(C(CO)O)O)=O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(CC(C(C(CO)O)O)N)=O']	Strecker Degradation, CC	-27.65
+12488_0	['C(CC(C(C(CO)O)O)=O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(CC(C(C(CO)O)O)N)=O']	Strecker Degradation, CC	-36.68
+12489_0	['C(C(C(CC(CO)O)=O)O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(C(CC(CO)O)N)O)=O']	Strecker Degradation, CC	4.42
+12490_0	['C(C(C(CC(CO)O)=O)O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(C(CC(CO)O)N)O)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	4.42
+12491_0	['C(C(C(CC(CO)O)=O)O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(C(CC(CO)O)N)O)=O']	Strecker Degradation, CC	8.17
+12492_0	['C(C(C(CC(CO)O)=O)O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CO)O)N)O)=O']	Strecker Degradation, CC	16.47
+12493_0	['C(C(C(CC(CO)O)=O)O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)O)N)O)=O']	Strecker Degradation, CC	7.45
+12494_0	['C(CC(C=O)O)(C(CO)O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(CC(C(CO)O)N)O)=O']	Strecker Degradation, CC	-52.53
+12495_0	['C(CC(C=O)O)(C(CO)O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(CC(C(CO)O)N)O)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12496_0	['C(CC(C=O)O)(C(CO)O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(CC(C(CO)O)N)O)=O']	Strecker Degradation, CC	-48.78
+12497_0	['C(CC(C=O)O)(C(CO)O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(CC(C(CO)O)N)O)=O']	Strecker Degradation, CC	-40.48
+12498_0	['C(CC(C=O)O)(C(CO)O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(CC(C(CO)O)N)O)=O']	Strecker Degradation, CC	-49.51
+12499_0	['C(C(C(C=O)O)O)(CCO)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(C(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-52.53
+12500_0	['C(C(C(C=O)O)O)(CCO)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(C(C(CCO)N)O)O)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12501_0	['C(C(C(C=O)O)O)(CCO)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(C(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-48.78
+12502_0	['C(C(C(C=O)O)O)(CCO)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-40.48
+12503_0	['C(C(C(C=O)O)O)(CCO)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(CCO)N)O)O)=O']	Strecker Degradation, CC	-49.51
+12504_0	['C(C(C(CC(CO)=O)O)O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(C(CC(CO)N)O)O)=O']	Strecker Degradation, CC	-52.53
+12505_0	['C(C(C(CC(CO)=O)O)O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(C(CC(CO)N)O)O)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12506_0	['C(C(C(CC(CO)=O)O)O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(C(CC(CO)N)O)O)=O']	Strecker Degradation, CC	-48.78
+12507_0	['C(C(C(CC(CO)=O)O)O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(CC(CO)N)O)O)=O']	Strecker Degradation, CC	-40.48
+12508_0	['C(C(C(CC(CO)=O)O)O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(CC(CO)N)O)O)=O']	Strecker Degradation, CC	-49.51
+12509_0	['C(C(C(C(C(C)=O)O)O)O)=O', 'C(C(C(CO)O)N)(O)=O']	['C(=O)=O', 'C(C(CO)O)=O', 'C(C(C(C(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12510_0	['C(C(C(C(C(C)=O)O)O)O)=O', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	['C(=O)=O', 'C(C(C(C(C(C)N)O)O)O)=O', 'C(C(C(C(CO)O)O)O)=O']	Strecker Degradation, CC	-52.53
+12511_0	['C(C(C(C(C(C)=O)O)O)O)=O', 'C(C(C(O)=O)N)(O)=O']	['C(=O)=O', 'C(C(O)=O)=O', 'C(C(C(C(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-48.78
+12512_0	['C(C(C(C(C(C)=O)O)O)O)=O', 'C(C(C(C(O)=O)N)O)(O)=O']	['C(=O)=O', 'C(C(C=O)O)(O)=O', 'C(C(C(C(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-40.48
+12513_0	['C(C(C(C(C(C)=O)O)O)O)=O', 'C(C(CO)N)(O)=O']	['C(CO)=O', 'C(=O)=O', 'C(C(C(C(C(C)N)O)O)O)=O']	Strecker Degradation, CC	-49.51
+12514_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)O)=O)(O)=O', 'N']	['O', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)O)N)(O)=O']	Fe2 ---> Fe3 Alpha Keto Reduction, conversion to amino acid	NaN
+12516_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)(O)=O', 'N']	['O', '[Fe+3]', '[Fe+3]', 'C(C(N)O)(O)=O']	Fe2 ---> Fe3 Alpha Keto Reduction, conversion to amino acid	NaN
+12517_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)O)=O)(O)=O', 'N']	['O', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)O)O)N)(O)=O']	Fe2 ---> Fe3 Alpha Keto Reduction, conversion to amino acid	NaN
+12518_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)=O', 'N']	['C(CN)(O)=O', 'O', '[Fe+3]', '[Fe+3]']	Fe2 ---> Fe3 Alpha Keto Reduction, conversion to amino acid	NaN
+12520_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12521_0	['[Fe+3]', '[Fe+3]', 'C(CO)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12522_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)O)=O)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12523_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(O)=O)O)(C(CO)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)(CC(C(O)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12524_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(O)=O)O)O)(CCO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(C(C(C(O)=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12525_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)=O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(CC(C(C(O)=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12526_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(C(C(C(O)=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12527_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(C(C(O)=O)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C(O)=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12529_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)O)(C(C(O)=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)=O)(C(CO)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12531_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(O)=O)N)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)=O)N)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12532_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(O)=O)O)(CCO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(CC(C(O)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12533_0	['[Fe+3]', '[Fe+3]', 'C(C(CCC(CO)=O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(CCC(C(O)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12534_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(C)=O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(CC(C(O)=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12535_0	['[Fe+3]', '[Fe+3]', 'C(CC(CC(C(O)=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(CC(C(O)=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12536_0	['[Fe+3]', '[Fe+3]', 'C(C(C=CC(CO)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)=CC(C(O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12537_0	['[Fe+3]', '[Fe+3]', 'C(C(CCO)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CCO)=O)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydro Group of an ACID to Alpha Keto group	NaN
+12538_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)O)O)(O)=O']	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	NaN
+12539_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(O)O)(O)=O']	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	NaN
+12540_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)O)O)O)(O)=O']	Fe2 ---> Fe3 Conversion of Alpha Keto Group of an ACID to Alpha Hydro group	NaN
+12542_0	['[Fe+3]', 'C(C(C(C=O)O)O)(O)=O']	['[Fe+3]', 'C(CC(C(O)=O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12543_0	['[Fe+3]', 'C(C(CO)O)=O']	['[Fe+3]', 'C(C(C)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-60.67
+12544_0	['[Fe+3]', 'C(C(C(C=O)O)O)(C(CO)CO)=O']	['[Fe+3]', 'C(CC(C(O)=O)O)(C(CO)CO)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12545_0	['[Fe+3]', 'C(C(C(C(C(CO)=O)CO)O)O)=O']	['[Fe+3]', 'C(C(CC(C(CO)=O)CO)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12546_0	['[Fe+3]', 'C(C(CO)O)(CC(C(C=O)O)O)=O']	['[Fe+3]', 'C(C(CO)O)(CCC(C(O)=O)O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12547_0	['[Fe+3]', 'C(C(C(C(C=O)O)O)O)(CCO)=O']	['[Fe+3]', 'C(C(CC(C(O)=O)O)O)(CCO)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12548_0	['[Fe+3]', 'C(C(CO)C(C(C(C=O)O)O)O)=O']	['[Fe+3]', 'C(C(CO)C(CC(C(O)=O)O)O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12549_0	['[Fe+3]', 'C(C(C(C(C)=O)O)O)=O']	['[Fe+3]', 'C(C(CC(C)=O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12550_0	['[Fe+3]', 'C(C(C(C=O)O)O)=O']	['[Fe+3]', 'C(C(CC=O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12551_0	['[Fe+3]', 'C(C(C(CC(C=O)O)O)O)=O']	['[Fe+3]', 'C(C(CCC(C=O)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12552_0	['[Fe+3]', 'C(C(C(C=O)O)O)(C(C)O)=O']	['[Fe+3]', 'C(CC(C(O)=O)O)(C(C)O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12553_0	['[Fe+3]', 'C(C(CC(C(C=O)O)O)NC)=O']	['[Fe+3]', 'C(C(CCC(C(O)=O)O)NC)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12554_0	['[Fe+3]', 'C(C(C(C=O)O)O)(C(C)NC)=O']	['[Fe+3]', 'C(CC(C(O)=O)O)(C(C)NC)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12555_0	['[Fe+3]', 'C(C(C(C(CCO)O)O)O)=O']	['[Fe+3]', 'C(C(CC(CCO)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12556_0	['[Fe+3]', 'C(CC(C(C(C=O)O)O)O)(O)=O']	['[Fe+3]', 'C(CC(CC(C(O)=O)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12557_0	['[Fe+3]', 'C(C(C(C(C(C)=O)(CO)O)O)O)=O']	['[Fe+3]', 'C(C(CC(C(C)=O)(CO)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12558_0	['[Fe+3]', 'C(C(C(C(C(C)=O)NC)O)O)=O']	['[Fe+3]', 'C(C(CC(C(C)=O)NC)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12559_0	['[Fe+3]', 'C(C(C(C(C=C)=O)O)O)=O']	['[Fe+3]', 'C(C(CC(C=C)=O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12560_0	['[Fe+3]', 'C(C(C(C=CC=O)O)O)=O']	['[Fe+3]', 'C(C(CC=CC=O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12561_0	['[Fe+3]', 'C(C(C(C=O)O)O)(CCNC)=O']	['[Fe+3]', 'C(CC(C(O)=O)O)(CCNC)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12562_0	['[Fe+3]', 'C(CC(C(C(C=O)O)O)NC)=O']	['[Fe+3]', 'C(CC(CC(C(O)=O)O)NC)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12563_0	['[Fe+3]', 'C(C(C(C(CCO)N)O)O)=O']	['[Fe+3]', 'C(C(CC(CCO)N)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12564_0	['[Fe+3]', 'C(C(C(CC(CO)N)O)O)=O']	['[Fe+3]', 'C(C(CCC(CO)N)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12565_0	['[Fe+3]', 'C(C(C(C(C(C)N)O)O)O)=O']	['[Fe+3]', 'C(C(CC(C(C)N)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12566_0	['[Fe+3]', 'C(C(C(C(CCN)O)O)O)=O']	['[Fe+3]', 'C(C(CC(CCN)O)O)(O)=O']	Fe3 Complex Beta elimination from a sugar and Conversion to Acid	-56.28
+12567_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=O)=O)O)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12568_0	['[Fe+3]', '[Fe+3]', 'C(C(CO)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12569_0	['[Fe+3]', '[Fe+3]', 'C(C(CO)C(C=O)O)(C(CO)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)(C(C(C=O)=O)CO)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12570_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(C(CO)CO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)CO)(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12571_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)=O)CO)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(C(CO)C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12572_0	['[Fe+3]', '[Fe+3]', 'C(C(CO)O)(CC(C(C=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C=O)=O)O)(C(CO)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12573_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C=O)O)O)O)(CCO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C=O)=O)O)O)(CCO)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12574_0	['[Fe+3]', '[Fe+3]', 'C(C(CO)C(C(C(C=O)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)C(C(C(C=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12575_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(CO)=O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(CC(C=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12576_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C)=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12577_0	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12578_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12579_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(C(CC(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12580_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(C=O)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12581_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(C=O)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(C=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12582_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(C(C)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C)O)(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12583_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)=O)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C=O)=O)NC)(CO)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12584_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(C=O)O)O)NC)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C=O)=O)O)NC)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12585_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(C(C)NC)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C)NC)(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12586_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12587_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)O)O)(O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C=O)=O)O)O)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12588_0	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CO)(CO)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)(CO)O)(CC(C=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12589_0	['[Fe+3]', '[Fe+3]', 'C(C(CO)(C(C=O)O)O)(CCO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(C(C(C=O)=O)(CO)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12590_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)(CO)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(CO)(C(C(C=O)=O)O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12591_0	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CO)NC)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)NC)(CC(C=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12592_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)NC)(CCO)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(C(C(C=O)=O)NC)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12593_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)NC)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C=O)=O)O)NC)(C)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12594_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(C)=O)=O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C)=O)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12595_0	['[Fe+3]', '[Fe+3]', 'C(CC(CC(C=O)O)=O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(CC(C=O)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12596_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C=C)=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C=CC(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12597_0	['[Fe+3]', '[Fe+3]', 'C(C(C=CC(CO)=O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C=CC(CO)=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12598_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=CC=O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=O)=O)O)=CC=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12599_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)NC)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12600_0	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CNC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CNC)O)(CC(C=O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12601_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(CCNC)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCNC)(C(C(C=O)=O)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12602_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)=O)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C=O)=O)NC)(CO)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12603_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)O)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C=O)=O)NC)O)(C)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12604_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C=O)=O)NC)O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12605_0	['[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)O)NC)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C=O)=O)O)NC)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12606_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)NCC(O)=O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CNC(C(C=O)=O)CO)(O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12607_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)O)NC)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)NC)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12608_0	['[Fe+3]', '[Fe+3]', 'C(C(C1(CC(CO1)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C1(CC(CO1)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12609_0	['[Fe+3]', '[Fe+3]', 'C(C(C1C(CC(O)O1)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C1C(CC(O1)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12610_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)O)N)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)O)N)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12611_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)N)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)N)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12612_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)N)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)N)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12613_0	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)N)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)N)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12614_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)N)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(C)N)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12615_0	['[Fe+3]', '[Fe+3]', 'C(C(C(C(CCN)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCN)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12616_0	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12617_0	['[Fe+3]', '[Fe+3]', 'C(C(O)O)=O']	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)=O']	Fe3 ---> Fe2 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group	NaN
+12619_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)C(C(CO)O)O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)C(C(CO)O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12620_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12621_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C=O)=O']	['[Fe+3]', '[Fe+3]', 'C(CO)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12622_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CCO)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CCO)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12623_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CO)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12624_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)O)O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12626_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)O)NC)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)O)NC)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12627_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)NC)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)O)NC)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12628_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(CC(C=O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(CCO)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12629_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(CCC(C=O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CCC(CO)=O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12630_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(CC(C=O)=O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(C)=O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12631_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(CC(C=O)=O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(CC(CC(C=O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12632_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)(CC(C=O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CO)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12633_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CCO)(C(C(C=O)=O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(CCO)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12634_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CO)(CC(C(C=O)=O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)=O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12635_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C)(C(C(C(C=O)=O)O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12636_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C=O)=O)O)O)=O']	['[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12637_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)=CC(C=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C=CC(CO)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12639_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)NC)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)NC)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12640_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)NC)O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)NC)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12641_0	['[H+]', '[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)O)=O)=O']	['[Fe+3]', '[Fe+3]', 'C(C(C(CO)O)O)=O']	Fe2 ---> Fe3 Conversion of Alpha Hydroxy Group of an aldehyde to Alpha Keto group, inverse	NaN
+12642_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C=O)O)(O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12643_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12644_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CO)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CO)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12645_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12646_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(CO)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(CO)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12647_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C)=O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C)=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12648_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12649_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12650_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12651_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)=O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12652_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)O)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12653_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(C=O)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(C=O)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12654_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(C=O)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C=O)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12655_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(C(C)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)O)O)(C(C)O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12656_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C(CO)O)O)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12657_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)=O)NC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)=O)NC)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12658_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)NC)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)NC)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12659_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(C=O)O)O)NC)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C(O)=O)O)O)NC)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12660_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(C(C)NC)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)O)O)(C(C)NC)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12661_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12662_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)O)O)(O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C(O)=O)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12663_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CO)NC)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(O)=O)O)(C(CO)NC)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12664_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)NC)(CCO)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)O)NC)(CCO)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12665_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)NC)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(C)=O)NC)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12666_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C=O)O)(CC(C)=O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(O)=O)O)(CC(C)=O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12667_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CCC=O)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CCC=O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12668_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(C)=O)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(C)=O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12669_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(CC(C=O)O)=O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(CC(C(O)=O)O)=O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12670_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=CCO)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=CCO)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12671_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C=C)=O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C=C)=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12672_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C=CC(CO)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C=CC(CO)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12673_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=CC=O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C=CC=O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12674_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CO)NC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)NC)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12675_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)NC)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)NC)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12676_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C=O)O)(C(CNC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(O)=O)O)(C(CNC)O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12677_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C=O)O)O)(CCNC)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(O)=O)O)O)(CCNC)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12678_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)=O)NC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)=O)NC)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12679_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)=O)O)NC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(C)=O)O)NC)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12680_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)NC)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C(O)=O)O)NC)O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12681_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(CC(C(C(C=O)O)O)NC)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(CC(C(C(C(O)=O)O)O)NC)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12682_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CO)NCC(O)=O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CO)NCC(O)=O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12683_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C1(CC(CO1)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C1(CC(CO1)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12684_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C1C(CC(O)O1)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C1C(CC(O)O1)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12685_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)O)N)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)O)N)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12686_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)N)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)N)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12687_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(CCO)N)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCO)N)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12688_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(CC(CO)N)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(CC(CO)N)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12689_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(C(C)N)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(C)N)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12690_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(C(C(CCN)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(CCN)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12691_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(CC(C(CO)O)O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12692_0	['[OH-]', '[Fe+3]', '[Fe+3]', 'C(C(O)O)=O']	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)O)(O)=O']	Fe3 ---> Fe2 Aldehyde to acid	NaN
+12694_0	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(CC(C(CO)O)O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', '[C](C(O)=O)(CC(C(CO)O)O)O']	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	NaN
+12696_0	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', '[C](C(O)=O)(O)O']	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	NaN
+12697_0	['[H+]', '[Fe+2]', '[Fe+2]', 'C(C(C(C(C(CO)O)O)O)=O)(O)=O']	['[Fe+3]', '[Fe+3]', '[C](C(O)=O)(C(C(C(CO)O)O)O)O']	Fe2 ---> Fe3 Alpha Keto Reduction of a Carboxylic Acid (Fe2+ to Fe3+)	NaN
